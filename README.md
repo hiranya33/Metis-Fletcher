@@ -1,19 +1,15 @@
 # Metis-Fletcher
 Metis project 4
-# Metis-Luther: Description of all the files. 
 
-**Luther-IncomeData.ipynb**	Notebook for webscraping from [bestplaces.net](https://www.bestplaces.net/find/zip.aspx?st=Washington&county=53033). 
+**Fletcher-twitterdata.ipynb**	Notebook for getting tweets from twitter using tweepy and storage in mongodb
 
-**LutherData-Cleaning&Modeling.ipynb**	Notebook for Data Cleaning, EDA, modeling and results. 
+**Fletcher-preprocess.ipynb**	Notebook for preprocessing and sentiment analysis of tweets. 
 
-**PREDICTING HOUSE PRICES IN KING COUNTY-4.pdf**	presentation. 
 
-**Project Luther Summary.pdf**	Summary. 
+**Project Fleatcher Summary.pdf**	Summary. 
 
-**ProjectLuther-realtor.ipynb**	Web scraping from realtor.com. 
+**Projec-fletcherlda.ipynb**	LDA and regression analysis of topics in tweet.  
 
-**data files 4-13** csv files containg data scraped from realtor.com. 
+**data files 4** csv files containg twitter data. 
 
-**inc_data** csv files of data scrapoed from bestplaces.net. 
 
-**links_final.csv**	links of 100 pages in King  County from realtor.com
