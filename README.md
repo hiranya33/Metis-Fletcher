@@ -8,7 +8,7 @@ Metis project 4
 
 **Project Fletcher Summary.pdf**	Summary. 
 
-**Projec-Fletcherlda.ipynb**	LDA and regression analysis of topics in tweet.  
+**Fletcherlda-sklearn.ipynb**	LDA and regression analysis of topics in tweet.  
 
 **data files 4** csv files containg twitter data. 
 
