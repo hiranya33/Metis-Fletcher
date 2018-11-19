@@ -6,9 +6,9 @@ Metis project 4
 **Fletcher-preprocess.ipynb**	Notebook for preprocessing and sentiment analysis of tweets. 
 
 
-**Project Fleatcher Summary.pdf**	Summary. 
+**Project Fletcher Summary.pdf**	Summary. 
 
-**Projec-fletcherlda.ipynb**	LDA and regression analysis of topics in tweet.  
+**Projec-Fletcherlda.ipynb**	LDA and regression analysis of topics in tweet.  
 
 **data files 4** csv files containg twitter data. 
 
