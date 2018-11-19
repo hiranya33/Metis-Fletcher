@@ -10,6 +10,6 @@ Metis project 4
 
 **Fletcherlda-sklearn.ipynb**	LDA and regression analysis of topics in tweet.  
 
-**data files 4** csv files containg twitter data. 
+**data files**  csv files containg twitter data. 
 
 
